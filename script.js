@@ -1,5 +1,3 @@
-const OPENROUTER_API_KEY = "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"; // Klucz OpenRouter
-const DEEPAI_API_KEY = "43d76131-e33b-49f9-aae4-1b9f378d408b"; // Klucz DeepAI
 
 // Wysyłanie wiadomości do OpenRouter AI
 async function sendMessage() {
