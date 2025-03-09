@@ -1,3 +1,4 @@
+const apiKey = process.env.OPENROUTER_API_KEY;
 
 // Wysyłanie wiadomości do OpenRouter AI
 async function sendMessage() {
